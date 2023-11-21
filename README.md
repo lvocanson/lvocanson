@@ -1,16 +1,17 @@
-### Hi there 👋
+## Welcome to my GitHub profile 👋
 
-<!--
-**lvocanson/lvocanson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇫🇷 I'm a C++ enthusiast from France.
 
-Here are some ideas to get you started:
+📌 Take a look at the pinned repositories below to discover some of my projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 You can also find some reusable code snippets in my [Gist](https://gist.github.com/lvocanson).
+
+⭐️ If you find something useful or interesting, feel free to star it!
+
+📫 Contact me on [LinkedIn](https://www.linkedin.com/in/lvocanson).
+
+<p>
+  <img height=120 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvocanson&theme=radical&show_icons=true&hide_border=false&layout=compact" />
+  <img height=120 src="https://github-readme-stats.vercel.app/api?username=lvocanson&theme=radical&show_icons=true&hide_border=false&count_private=true" />
+  <img height=120 src="https://github-readme-streak-stats.herokuapp.com/?user=lvocanson&theme=radical&hide_border=false" />
+</p>
